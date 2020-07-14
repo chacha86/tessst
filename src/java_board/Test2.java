@@ -11,9 +11,9 @@ public class Test2 {
 		
 		System.out.println(b1);
 		
-		String a223 = sc.next();
+		String a22113 = sc.next();
 		
-		System.out.println(a223);
+		System.out.println(a22113);
 		
 	}
 }
