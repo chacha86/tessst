@@ -7,13 +7,13 @@ public class Test2 {
 		Scanner sc = new Scanner(System.in);
 		
 		//String a = sc.next();
-		String b = sc.nextLine();
+		String b1 = sc.nextLine();
 		
-		System.out.println(b);
+		System.out.println(b1);
 		
-		String a = sc.next();
+		String a2 = sc.next();
 		
-		System.out.println(a);
+		System.out.println(a2);
 		
 	}
 }
